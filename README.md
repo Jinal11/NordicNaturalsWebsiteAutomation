@@ -9,5 +9,5 @@ Scripts written in Python. To Run this project
 4. If you find any error, Please make sure you have selenium,UnitTest,pip installed in Pycharm
 5. To add those framework, Go to Project – > Project Interpreter and add by clicking '+'
 
-**Note :** If you are using macbook with Catelina OS, you might see chrome driver error while running program. To resolve the error:
+**Note :** If you are using mac with Catalina OS, you might see chrome driver error while running program. To resolve the error:
 - Go to BaseClass folder and run `xattr -d com.apple.quarantine chromedriver`
