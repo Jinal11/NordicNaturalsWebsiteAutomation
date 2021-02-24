@@ -10,4 +10,4 @@ Scripts written in Python. To Run this project
 5. To add those framework, Go to Project – > Project Interpreter and add by clicking '+'
 
 **Note :** If you are using mac with Catalina OS, you might see chrome driver error while running program. To resolve the error:
-- Go to BaseClass folder and run `xattr -d com.apple.quarantine chromedriver`
+- Go to BaseClass folder and run `xattr -d com.apple.quarantine chromedriver` using Terminal
